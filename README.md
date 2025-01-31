@@ -12,7 +12,7 @@ CSS: For styling and responsive design.
 
 🚀 Live Demo
 Check out the live version of the project: Udemy Clone Demo
-(Replace # with the link to your deployed website, e.g., GitHub Pages, Netlify, or Vercel.)
+(https://dhivyx.github.io/Udemy-clone-Project/)
 
 📈 Responsive Design
 Mobile-First Approach: Designed with mobile users in mind and scales gracefully for larger screens.
